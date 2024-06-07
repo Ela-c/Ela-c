@@ -1,16 +1,13 @@
-## Hi there 👋
+Hey I'm Alejandro. <br>
+I'm a second-year CS student, and the thrill of problem-solving through code is what drives me.
 
-<!--
-**Ela-c/Ela-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Social:
+- [Twitter]()
+- [Website](https://ela-c.github.io/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ela-c&show_icons=true&theme=tokyonight" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ela-c&layout=compact&show_icons=true&theme=tokyonight" />
+</a>
