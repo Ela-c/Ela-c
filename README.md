@@ -3,7 +3,7 @@ I'm a second-year CS student, and the thrill of problem-solving through code is 
 
 #### Social:
 - [Twitter]()
-- [Website](https://ela-c.github.io/)
+- [Website](https://www.alejandrodev.xyz/)
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ela-c&show_icons=true&theme=tokyonight" />
