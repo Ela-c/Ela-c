@@ -3,6 +3,7 @@ I'm a second-year CS student, and the thrill of problem-solving through code is 
 
 #### Social:
 - [Twitter]()
+- [LinkedIn](https://www.linkedin.com/in/alejandro-jara-software/)
 - [Website](https://www.alejandrodev.xyz/)
 
 <a>
