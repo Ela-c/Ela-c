@@ -1,5 +1,5 @@
 Hey I'm Alejandro. <br>
-I'm a second-year CS student, and the thrill of problem-solving through code is what drives me.
+I'm a third-year CS student, and the thrill of problem-solving through code is what drives me.
 
 #### Social:
 - [Twitter]()
